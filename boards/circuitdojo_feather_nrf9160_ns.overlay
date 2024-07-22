@@ -1,0 +1,3 @@
+    &uart2 {
+        status = "okay";            // Receive pin set to GPIO pin 5
+    };
